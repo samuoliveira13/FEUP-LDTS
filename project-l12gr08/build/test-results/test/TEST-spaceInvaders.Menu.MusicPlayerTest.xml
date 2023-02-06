@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="spaceInvaders.Menu.MusicPlayerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-24T04:43:16" hostname="LAPTOP-KNG80TCN" time="0.038">
+  <properties/>
+  <testcase name="laserShootTest()" classname="spaceInvaders.Menu.MusicPlayerTest" time="0.014"/>
+  <testcase name="ufoTest()" classname="spaceInvaders.Menu.MusicPlayerTest" time="0.012"/>
+  <testcase name="playerDeathTest()" classname="spaceInvaders.Menu.MusicPlayerTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="spaceInvaders.Menu.GameTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2022-12-24T04:43:16" hostname="LAPTOP-KNG80TCN" time="0.488">
+  <properties/>
+  <testcase name="arenaSetLivesTest()" classname="spaceInvaders.Menu.GameTest" time="0.036"/>
+  <testcase name="arenaGetLivesBossTest()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="gameTest()" classname="spaceInvaders.Menu.GameTest" time="0.017"/>
+  <testcase name="setGetGameStateTest()" classname="spaceInvaders.Menu.GameTest" time="0.014"/>
+  <testcase name="getInstanceNullTest()" classname="spaceInvaders.Menu.GameTest" time="0.018"/>
+  <testcase name="firstInstaceTest()" classname="spaceInvaders.Menu.GameTest" time="0.018"/>
+  <testcase name="testRemoveEnemy()" classname="spaceInvaders.Menu.GameTest" time="0.016"/>
+  <testcase name="setGetGameStateNotEqualsTest()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="drawTest()" classname="spaceInvaders.Menu.GameTest" time="0.053"/>
+  <testcase name="setGetScreenNotEqualsTest()" classname="spaceInvaders.Menu.GameTest" time="0.012"/>
+  <testcase name="moveBossVerticallyTest()" classname="spaceInvaders.Menu.GameTest" time="0.018"/>
+  <testcase name="notHittingWallTest()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="getTerminalCreatorTest()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="removeLiveBoss()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="elaspedTimeNotEqualsTest()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="drawLives()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="drawScore()" classname="spaceInvaders.Menu.GameTest" time="0.018"/>
+  <testcase name="removeLiveSpaceShip()" classname="spaceInvaders.Menu.GameTest" time="0.015"/>
+  <testcase name="arenaTest()" classname="spaceInvaders.Menu.GameTest" time="0.014"/>
+  <testcase name="arenaResetProtectionsTest()" classname="spaceInvaders.Menu.GameTest" time="0.014"/>
+  <testcase name="setGetScreenTest()" classname="spaceInvaders.Menu.GameTest" time="0.013"/>
+  <testcase name="arenaGetLivesTest()" classname="spaceInvaders.Menu.GameTest" time="0.01"/>
+  <testcase name="drawLivesBoss()" classname="spaceInvaders.Menu.GameTest" time="0.016"/>
+  <testcase name="canSpaceshipMove()" classname="spaceInvaders.Menu.GameTest" time="0.013"/>
+  <testcase name="arenaResetLivesTest()" classname="spaceInvaders.Menu.GameTest" time="0.013"/>
+  <testcase name="calculateSleepTimeTest()" classname="spaceInvaders.Menu.GameTest" time="0.011"/>
+  <testcase name="SoundsTest()" classname="spaceInvaders.Menu.GameTest" time="0.013"/>
+  <testcase name="getScoreTest()" classname="spaceInvaders.Menu.GameTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

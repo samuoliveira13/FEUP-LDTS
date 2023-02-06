@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="spaceInvaders.Menu.ElementsTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-12-24T04:43:16" hostname="LAPTOP-KNG80TCN" time="0.047">
+  <properties/>
+  <testcase name="spaceshipMoveRightTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.005"/>
+  <testcase name="spaceshipSetPositionSTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.005"/>
+  <testcase name="laserDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.002"/>
+  <testcase name="bossDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.003"/>
+  <testcase name="bulletMoveDownTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.001"/>
+  <testcase name="protectionDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.002"/>
+  <testcase name="bulletDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.002"/>
+  <testcase name="spaceshipMoveLeftTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.002"/>
+  <testcase name="enemyDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.002"/>
+  <testcase name="spaceshipGetPositionTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.001"/>
+  <testcase name="laserMoveUpTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.001"/>
+  <testcase name="wallsDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.003"/>
+  <testcase name="spaceshipDrawTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.003"/>
+  <testcase name="enemyMoveRightTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.001"/>
+  <testcase name="enemyMoveLeftTest()" classname="spaceInvaders.Menu.ElementsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
